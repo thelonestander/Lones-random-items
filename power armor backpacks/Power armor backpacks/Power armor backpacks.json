@@ -21,5 +21,29 @@
     "warmth": 10,
     "material_thickness": 2,
     "flags": [ "BELTED", "WATERPROOF", "ONLY_ONE", "OVERSIZE", "POWERARMOR_MOD" ]
+  },
+  {
+    "id": "bigback",
+    "type": "ARMOR",
+    "name": { "str": "high-volume rucksack" },
+    "description": "Also known as a \"bigpack\", this rucksack is prized by pack rats but may lead to a bad back but thankfully you have power armor, and a big ole strap.",
+    "weight": "3539 g",
+    "volume": "21 L",
+    "price": "200 USD",
+    "price_postapoc": "25 USD",
+    "material": [ "leather" ],
+    "symbol": "[",
+    "looks_like": "rucksack",
+    "color": "black",
+    "covers": [ "torso" ],
+    "coverage": 25,
+    "rigid": false,
+    "encumbrance": 14,
+    "max_encumbrance": 70,
+    "storage": "80 L",
+    "warmth": 10,
+    "material_thickness": 2,
+    "flags": [ "BELTED", "WATERPROOF", "ONLY_ONE", "OVERSIZE", "POWERARMOR_MOD" ]
   }
+  
   ]
