@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "power_armor_backpacks",
+    "name": "Power armor backpacks",
+    "authors": [ "Lone" ],
+    "description": "Adds a new big backpack for power armor, seems the military got annoyed at not having space too.",
+    "category": "clothes",
+    "dependencies": [ "bn" ]
+  }
+]
