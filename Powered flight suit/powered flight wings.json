@@ -30,7 +30,7 @@
 
     "ammo": [ "battery" ],
     "charges_per_use": 10,
-    "max_charges": 4000,
+    "max_charges": 1000,
 
     "flags": [
       "OUTER",
@@ -52,7 +52,7 @@
       "target": "powered_flight_wings"
     },
 
-    "power_draw": 2000,
+    "power_draw": 30000,
 
     "flags": [
       "OUTER",
