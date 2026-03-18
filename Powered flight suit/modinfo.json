@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "powered_flight_wings_mod",
+    "name": "Powered Flight Wings",
+    "authors": [ "Lone" ],
+    "description": "Adds a wearable powered flight wing harness and integrates it into military itemgroups.",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }
+]
