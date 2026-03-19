@@ -14,7 +14,6 @@
     "covers": [ "torso", "arms" ],
     "coverage": 60,
     "encumbrance": 25,
-    "max_encumbrance": 45,
     "warmth": 5,
     "environmental_protection": 2,
     "material_thickness": 2,
