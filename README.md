@@ -1,6 +1,7 @@
 # Lones-random-items
 
 <img width="1024" height="1536" alt="Lones random items" src="https://github.com/user-attachments/assets/411e6c7a-f950-4c03-837a-cb36cc9249f1" />
+Photo made by AI
 
 Random items and additions to Bn 
 
