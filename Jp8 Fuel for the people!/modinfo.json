@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "fuel_to_the_people",
-    "name": "<color_yellow>Jp8 fuel to the people!<color_yellow>",
+    "name": "<color_yellow>Jp8 fuel to the people!</color>",
     "authors": [ "Lone" ],
     "description": "Adds jp8 fuel barrels to spawn in all aiports and military helipads",
     "category": "vehicles",

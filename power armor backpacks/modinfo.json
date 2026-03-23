@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "power_armor_backpacks",
-    "name": "<color_yellow>Lones Power armor backpacks<color_yellow>",
+    "name": "<color_yellow>Lones Power armor backpacks</color>",
     "authors": [ "Lone" ],
     "description": "Adds a new big backpack for power armor, seems the military got annoyed at not having space too.",
     "category": "clothes",
